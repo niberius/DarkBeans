@@ -10,3 +10,6 @@ Now ready:
 - java colors
 - highlighting colors
 - notes colors (not in full scope)
+
+Screenshot:
+![Screenshot](https://raw.githubusercontent.com/niberius/DarkBeans/master/screen.png)
